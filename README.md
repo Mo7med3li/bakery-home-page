@@ -1,4 +1,4 @@
-My first small project with only HTML and CSS  using only (float,display-inline-blok) in Css
+My first small project with only HTML and CSS  using only (float,display-inline-blok) in Css (Not Responsive)
 ![image](https://github.com/user-attachments/assets/6fa05cd3-3cf3-453f-9156-e35b4f1d716e)
 ![image](https://github.com/user-attachments/assets/d24b0be7-0a07-4023-975f-adf120819014)
 ![image](https://github.com/user-attachments/assets/e65b4d61-326d-45ba-a394-1a043beb436f)
