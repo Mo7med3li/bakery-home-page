@@ -6,6 +6,7 @@ My first small project with only HTML and CSS  using only (float,display-inline-
 ![image](https://github.com/user-attachments/assets/e034a215-b404-46b0-9dcb-2ac80cbd8c45)
 ![image](https://github.com/user-attachments/assets/9c92bbe8-909c-4808-821f-2ffec69de8ab)
 ![image](https://github.com/user-attachments/assets/650f40eb-bf88-42d6-a135-f47d284824f2)
+Here is video of the project
 https://github.com/user-attachments/assets/d653df8d-cd67-45cb-a266-b7a60e9a968c
 
 
